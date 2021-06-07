@@ -49,4 +49,4 @@ Successful Pipeline Build, <br><br>
 Failed Pipeline Build (Failed test check), <br><br>
 <img src="resources/build-fail.png"><br><br>
 Acquiring external IP for access,<br><br>
-<img src="resources/external-ip.png"><br><br>>
+<img src="resources/external-ip.png"><br><br>
