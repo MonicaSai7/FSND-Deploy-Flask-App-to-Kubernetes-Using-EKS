@@ -306,6 +306,7 @@ Resources:
     Type: AWS::CodeBuild::Project
     Properties:
       Artifacts:
+        OverrideArtifactName: true
         Type: CODEPIPELINE
       Source:
         Type: CODEPIPELINE
